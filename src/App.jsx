@@ -5,8 +5,8 @@ import Footer from './components/Footer'
 const App = () => {
   return (
     <div>
+      <Navbar/>
       Hello World..!!
-      Change in main branch.
     </div>
   )
 }
